@@ -1,0 +1,110 @@
+//META{"name":"trying to make discord look fancy","description":"Look fancy simple css","author":"Kuro Neko","version":"1.0"}*//{}
+@import url(https://8xs4qxklp8.execute-api.us-east-2.amazonaws.com/release/gorawgit?giturl=/puckzxz/NotAnotherAnimeTheme/master/css/dcsl.css);
+
+:root {
+
+    --background-image: url(https://vignette.wikia.nocookie.net/the-house-of-anubis/images/3/3e/Backgrounds-neon.jpg/revision/latest?cb=20141017211756); 
+
+    --friends-icon: url(https://vignette.wikia.nocookie.net/kritika/images/6/60/Discord-logo.png/revision/latest?cb=20171226233126);
+	
+    --friends-icon-position: center center;
+
+    --friends-icon-zoom: 100%; 
+}
+:root {
+    --main-transparency: rgba(0, 0, 0, 0.3);
+}
+.nameConnectedText-3CzNQn, .nameConnectedVoice-MHUX5F,
+.nameSelectedText-sp_EUw, .nameSelectedVoice-1qSph5 {
+    color:#ff00f0;
+}
+.nameHoveredText-1uO31y, .nameHoveredVoice-YJ1Vfd,
+.nameUnreadText-DfkrI4, .nameUnreadVoice-EVo-wI {
+    color:white;
+}
+.nameLockedText-3pqQcL, .nameLockedVoice-26MhB1 {
+    color:red;
+}
+.nameLockedText-3pqQcL:hover, .nameLockedVoice-26MhB1:hover {
+    color:#ffff00;
+}
+
+.scroller-2wx7Hm{
+    border: 6px solid #ff00ff;
+    border-radius: 34px;
+}
+#bd-pub-button {
+    display:none;
+}
+.containerCozyBounded-1rKFAn {
+    border: 2px solid #f000ff;
+    border-radius:10px;
+}
+.theme-dark .textArea-2Spzkt {
+    border: 2px solid #ff00ff;
+    border-radius:60px;
+}
+.member-3W1lQa:hover .content-OzHfo4:hover {
+    background-color:black;
+}
+.backgroundBlurOverlay-1JS5RF {
+    opacity:0;
+    display:none;
+}
+.scroller-2FKFPG {
+    border:6px solid #f000ff;
+    border-radius:20px;
+}
+
+.selectedLink-3dsNZ6 {
+    border:6px solid #f000ff;
+    border-radius:40px;
+}
+.container-2Thooq, .container-1UB9sr {
+    color:#f000ff ! important;
+    background-color:black ! important;
+}
+.theme-dark .markup-2BOw-j {
+    color:#0fffff;
+}
+#app-mount {
+    background-color:#ff00fa;
+}
+.containerCozyBounded-1rKFAn {
+    border: 2px none ! important;
+}
+.scroller-2wx7Hm {
+    border: 2px solid #ffffff ! important;
+    
+}
+.scroller-2FKFPG {
+    border: 2px solid #ffffff;
+}
+
+.itemSelected-1qLhcL {
+    color:#f000f0 ! important;
+    background-color:white ! important;
+    border: 1px solid #f000f0;
+    border-radius:20px ! important;
+}
+.side-8zPYf6 {
+    color:gold ! important;
+    border:2px solid #f000f0 ! important;
+    border-radius:15px;
+    background-color:black;
+}
+.ui-standard-sidebar-view, .ui-standard-sidebar-view * {
+    color:#f000ff ! important;
+}
+.container-2Thooq, .container-1UB9sr {
+    border:2px solid #f000f0;
+    border-radius:20px;
+}
+.privateChannels-1nO12o 
+.selectedLink-3dsNZ6{
+    border:5px solid #f000ff;
+    border-radius:20px ! important;
+}
+.membersGroup-v9BXpm {
+    color:#f000ff ! important;
+}
